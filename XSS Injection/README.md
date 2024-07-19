@@ -1307,3 +1307,5 @@ Source: [@pilvar222](https://twitter.com/pilvar222/status/1784618120902005070)
 - [Bypass < with ＜](https://hackerone.com/reports/639684)
 - [Bypassing Signature-Based XSS Filters: Modifying Script Code](https://portswigger.net/support/bypassing-signature-based-xss-filters-modifying-script-code)
 - [Secret Web Hacking Knowledge: CTF Authors Hate These Simple Tricks - Philippe Dourassov - 13 may 2024](https://youtu.be/Sm4G6cAHjWM)
+
+
